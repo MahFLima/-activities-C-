@@ -1,0 +1,9 @@
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form1.resources
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.Cache
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+C:\Users\Mariana\Desktop\Programação Visual\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
